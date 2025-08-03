@@ -22,7 +22,7 @@ GLOSSA es una aplicación que facilita la comunicación entre personas oyentes y
 
 1. **Clona o descarga el proyecto**
 
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/andresarzz/glossa-lesco-translator.git
 cd glossa-lesco-translator
 
 
